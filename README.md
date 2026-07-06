@@ -106,8 +106,7 @@ All charts and KPIs update dynamically based on the selected filters.
 Digital-Wallet-Transaction-Dashboard/
 │
 ├── Digital Wallet Transaction Dashboard.xlsx
-├── images/
-│   └── dashboard.png
+├── dashboard.png
 └── README.md
 ```
 
