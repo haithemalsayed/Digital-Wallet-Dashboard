@@ -135,7 +135,7 @@ Digital-Wallet-Transaction-Dashboard/
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](https://github.com/haithemalsayed/Digital-Wallet-Dashboard/blob/main/Dashboard%20%20.png)
 
 ---
 
